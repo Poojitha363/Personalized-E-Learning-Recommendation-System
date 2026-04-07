@@ -1,1 +1,3 @@
-# Personalized-E-Learning-Recommendation-System
+# Full Production Project
+
+Run backend + ML service.
